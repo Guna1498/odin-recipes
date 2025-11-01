@@ -6,26 +6,20 @@ This website showcases a collection of classic Indian dishes, each with its own 
 ---
 
 ## 📂 Project Structure
-
-Odin-Recipes/
-│
-├── index.html
-├── README.md
-│
-├── images/
-│ ├── biriyani-img.jpg
-│ ├── masala-dosa-img.jpg
-│ ├── aloo-paratha-img.jpg
-│ ├── rogan-josh-img.jpg
-│ └── fish-curry-img.jpg
-│
-└── recipes/
-├── biriyani.html
-├── masala-dosa.html
-├── aloo-paratha.html
-├── rogan-josh.html
-└── fish-curry.html
-
+- **index.html** – Main homepage
+- **README.md** – Project documentation
+- **images/**  
+  - biriyani-img.jpg  
+  - masala-dosa-img.jpg  
+  - aloo-paratha-img.jpg  
+  - rogan-josh-img.jpg  
+  - fish-curry-img.jpg  
+- **recipes/**  
+  - biriyani.html  
+  - masala-dosa.html  
+  - aloo-paratha.html  
+  - rogan-josh.html  
+  - fish-curry.html  
 
 ---
 
