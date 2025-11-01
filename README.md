@@ -6,10 +6,12 @@ This website showcases a collection of classic Indian dishes, each with its own 
 ---
 
 ## 📂 Project Structure
+
 Odin-Recipes/
 │
 ├── index.html
 ├── README.md
+│
 ├── images/
 │ ├── biriyani-img.jpg
 │ ├── masala-dosa-img.jpg
